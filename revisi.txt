@@ -1,7 +1,2 @@
-<<<<<<< HEAD
-IG: ken
-Nama: IG ken ilang
-=======
 IG ken
 Nama: IG Ken ilang lagi
->>>>>>> a06f54dd5d8f458dedc8abdb46389ce32383d6ae
